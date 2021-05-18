@@ -18,4 +18,6 @@ After these steps are completed you will be able to run the application. When th
 
 #### Application Features
 Data Manipulation: Insert, Update, Delete, Clear
-Text Box: A user can use any MySQL query which are relvent to database table to update the records in the GUI Table.
+
+Text Box: A user can type any MySQL query which are relvent to database table to update the records in the GUI Table.
+
