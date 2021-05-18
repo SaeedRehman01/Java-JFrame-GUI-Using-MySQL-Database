@@ -7,6 +7,7 @@ A user will be able to edit sports activities that are taking place at a park wi
 #### Requirements
 This application requires Netbeans, Java Programming Language and a MySQL Database. Two Java jar files are requried which are the JCalender and JDBC connector. 
 Links to download are provided below:
+
 https://jar-download.com/artifacts/mysql/mysql-connector-java/5.1.41/source-code
 http://www.java2s.com/Code/Jar/j/Downloadjcalendar114jar.htm
 
